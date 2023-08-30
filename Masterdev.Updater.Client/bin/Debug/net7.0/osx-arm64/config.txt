@@ -1,0 +1,7 @@
+{
+    "updateFilePath": "https://localhost:5001/Masterdev_Updater/GetNewerVersion",
+    "serverFileName": "uploaded.txt",
+    "updateZipFilePath": "https://localhost:5001/Masterdev_Updater/GetUpdate",
+    "applicationName": "testowa",
+    "directoryName": "uploaded"
+}

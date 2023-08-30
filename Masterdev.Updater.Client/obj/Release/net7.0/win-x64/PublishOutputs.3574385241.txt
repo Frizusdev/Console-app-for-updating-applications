@@ -1,0 +1,2 @@
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/win-x64/publish/Masterdev.Updater.Client.pdb
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/win-x64/publish/Masterdev.Updater.Client.exe

@@ -1,0 +1,9 @@
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/publish/Masterdev.Updater.Client
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/publish/Masterdev.Updater.Client.dll
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/publish/Masterdev.Updater.Client.deps.json
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/publish/Masterdev.Updater.Client.runtimeconfig.json
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/publish/Masterdev.Updater.Client.pdb
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/publish/Microsoft.Web.Administration.dll
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/publish/Newtonsoft.Json.dll
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/publish/runtimes/unix/lib/netstandard1.5/System.ServiceProcess.ServiceController.dll
+/Users/blazej/Projects/Masterdev.Updater.Client/Masterdev.Updater.Client/bin/Release/net7.0/publish/runtimes/win/lib/netstandard1.5/System.ServiceProcess.ServiceController.dll

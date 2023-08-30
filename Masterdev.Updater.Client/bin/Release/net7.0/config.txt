@@ -1,0 +1,7 @@
+{
+    "updateFilePath": "http://demo.masterdev.pl/update.txt",
+    "serverFileName": "uploaded.txt",
+    "updateZipFilePath": "http://demo.masterdev.pl/update.zip",
+    "applicationName": "Application",
+    "directoryName": "uploaded"
+}
